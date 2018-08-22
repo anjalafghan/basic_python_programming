@@ -1,3 +1,5 @@
+#Reimagining the even odd example as a function
+
 def isOddOrEven(myNumber):
     if myNumber % 2 == 0:
         print("Your number is Even")

@@ -1,6 +1,6 @@
 #  In this tutorial we will understand how to 
 # check whether a number is an even number or odd number
-
+#Also we will learn casting
 
 myNumber = int(input("Enter your number: "))
 

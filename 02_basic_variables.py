@@ -1,9 +1,9 @@
 # In this we will understand the nature of data
 
 # variables
-name = "Mritunjay"
-age  = 21
-salary = 5000.00
+name    = "Mritunjay"
+age     = 21
+salary  = 5000.00
 
 print(name)
 print(age)

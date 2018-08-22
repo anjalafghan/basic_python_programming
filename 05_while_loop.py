@@ -14,6 +14,7 @@ print(10)
 
 #     OR
 myvalue = 1
+
 while myvalue < 11:
     print(myvalue)
     myvalue = myvalue + 1
